@@ -1,0 +1,21 @@
+#bg{
+    width: 100%;
+    height: 100vh;
+    background-image: url(re.jpg);
+    background-size: cover;
+    background-position: center;
+}           
+#bgg{
+    width: 100%;
+    height: 100vh;
+    background-image: url(blu.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#con{
+    width: 100%;
+    height: 100vh;
+    background-image: url(con.jpg);
+    background-size: cover;
+    background-position: center;
+}
